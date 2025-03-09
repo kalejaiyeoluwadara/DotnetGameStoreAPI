@@ -51,7 +51,10 @@ app.MapPut("/games/{id}",(int id, UpdateGameDto updateGame)=>
 
 // GET single game
 app.MapGet("/games/{id}", (int id) =>
-    games.Find(game=>game.Id == id)
+   { 
+        GameDto? game = games.Find(game=>game.Id == id);
+        return games is null ? Results.NotFound() : Results.Ok(game);
+    }
  );
 
 // DELETE game
