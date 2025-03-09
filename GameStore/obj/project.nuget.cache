@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XFISDdHP2H4=",
+  "dgSpecHash": "PLEPyZvk7oA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\V\\Desktop\\dotnet\\GameStore\\GameStore\\GameStore.csproj",
+  "projectFilePath": "c:\\Users\\V\\Desktop\\dotnet\\GameStore\\GameStore\\GameStore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\V\\.nuget\\packages\\microsoft.data.sqlite.core\\8.0.2\\microsoft.data.sqlite.core.8.0.2.nupkg.sha512",
     "C:\\Users\\V\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.2\\microsoft.entityframeworkcore.8.0.2.nupkg.sha512",
