@@ -36,7 +36,7 @@ public static class GamesEndpoint
             );
             games.Add(game);
             return Results.CreatedAtRoute(GetGameEndpointName, new { id = game.Id }, game);
-        });
+        }).WithParameterValidation();
 
         // PUT game
         group.MapPut("/{id}", (int id, UpdateGameDto updateGame) =>

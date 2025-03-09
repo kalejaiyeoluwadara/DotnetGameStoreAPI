@@ -26,3 +26,9 @@ C:\Users\V\Desktop\dotnet\GameStore\GameStore\obj\Debug\net9.0\refint\GameStore.
 C:\Users\V\Desktop\dotnet\GameStore\GameStore\obj\Debug\net9.0\GameStore.pdb
 C:\Users\V\Desktop\dotnet\GameStore\GameStore\obj\Debug\net9.0\GameStore.genruntimeconfig.cache
 C:\Users\V\Desktop\dotnet\GameStore\GameStore\obj\Debug\net9.0\ref\GameStore.dll
+C:\Users\V\Desktop\dotnet\GameStore\GameStore\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\V\Desktop\dotnet\GameStore\GameStore\bin\Debug\net9.0\MinimalApis.Extensions.dll
+C:\Users\V\Desktop\dotnet\GameStore\GameStore\bin\Debug\net9.0\MiniValidation.dll
+C:\Users\V\Desktop\dotnet\GameStore\GameStore\obj\Debug\net9.0\GameStore.csproj.AssemblyReference.cache
+C:\Users\V\Desktop\dotnet\GameStore\GameStore\obj\Debug\net9.0\GameStore.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\V\Desktop\dotnet\GameStore\GameStore\obj\Debug\net9.0\GameStore.csproj.Up2Date
