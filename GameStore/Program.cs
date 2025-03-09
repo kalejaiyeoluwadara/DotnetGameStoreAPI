@@ -54,4 +54,14 @@ app.MapGet("/games/{id}", (int id) =>
     games.Find(game=>game.Id == id)
  );
 
+// DELETE game
+app.MapDelete("/games/{id}",(int id)=>
+{
+    games.RemoveAll(game=>game.Id == id);
+    return Results.NoContent();
+});
+
+
 app.Run();
+
+
