@@ -127,3 +127,4 @@ C:\Users\V\Desktop\dotnet\GameStore\GameStore\bin\Debug\net9.0\ru\Microsoft.Code
 C:\Users\V\Desktop\dotnet\GameStore\GameStore\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\V\Desktop\dotnet\GameStore\GameStore\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\V\Desktop\dotnet\GameStore\GameStore\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\V\Desktop\dotnet\GameStore\GameStore\obj\Debug\net9.0\GameStore.sourcelink.json
